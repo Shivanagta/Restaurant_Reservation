@@ -74,25 +74,25 @@
             {
                 "id": 1,
                 "image": "./team_member_1.png",
-                "name": "Shivanag",
+                "name": "Chef1",
                 "designation": "Founder & Head Chef"
             },
             {
                 "id": 2,
                 "image": "./team_member_2.png",
-                "name": "WADE WARREN",
+                "name": "Chef2",
                 "designation": "Sous Chef"
             },
             {
                 "id": 3,
                 "image": "./team_member_3.png",
-                "name": "JHON DOE",
+                "name": "Chef3",
                 "designation": "Fast Food Chef"
             },
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "ALEX COAL",
+                "name": "Chef4",
                 "designation": "Senior Chef"
             }
         ],
