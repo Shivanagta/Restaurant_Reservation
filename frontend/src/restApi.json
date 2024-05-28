@@ -5,75 +5,75 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Indulge in our exquisite dishes prepared with the freshest ingredients and meticulous attention to detail, ensuring a dining experience that delights the senses."
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "Experience the explosion of flavors with every bite, as our expert chefs infuse each dish with a harmonious blend of spices and seasonings."
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Enjoy the convenience of swift and efficient delivery service, ensuring that your delicious meal arrives hot and fresh, right to your doorstep." 
             }
         ],
         "dishes": [
             {
                 "id": 1,
-                "image": "./dinner1.jpeg",
-                "title": "hjuhfh",
-                "category": "Dinner"
+                "image": "./dinner1.jpg",
+                "title": "IDLI VADA",
+                "category": "BreakFast"
             },
             {
                 "id": 2,
-                "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
-                "category": "Dinner"
+                "image": "./dinner2.jpg",
+                "title": "MASAL DOSA",
+                "category": "BreakFast"
             },
             {
                 "id": 3,
-                "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
+                "image": "./breakfast1.jpg",
+                "title": "POORI SAGU",
                 "category": "Breakfast"
             },
             {
                 "id": 4,
-                "image": "./dinner3.png",
-                "title": "STUFFED STRAWBERRY",
-                "category": "Dinner"
+                "image": "./dinner3.jpg",
+                "title": "SOUTH INDIAN THALI",
+                "category": "Lunch"
             },
             {
                 "id": 5,
-                "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
-                "category": "Lunch"
+                "image": "./lunch1.jpg",
+                "title": "ROTI CURRY",
+                "category": "Dinner"
             },
             {
                 "id": 6,
                 "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
+                "title": "TOMATO SOUP",
                 "category": "Dinner"
             },
             {
                 "id": 7,
                 "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
-                "category": "Dinner"
+                "title": "NOODLES",
+                "category": "Chinese"
             },
             {
                 "id": 8,
-                "image": "./dinner6.png",
-                "title": "GRILLED FISH",
-                "category": "Dinner"
+                "image": "./dinner6.jpg",
+                "title": "MANCHURIAN",
+                "category": "Chinese"
             }
         ],
         "team": [
             {
                 "id": 1,
-                "image": "./team_member_1.png",
+                "image": "./team_member_1.jpg",
                 "name": "Chef1",
                 "designation": "Founder & Head Chef"
             },
@@ -81,19 +81,19 @@
                 "id": 2,
                 "image": "./team_member_2.png",
                 "name": "Chef2",
-                "designation": "Sous Chef"
+                "designation": "South Indian Chef"
             },
             {
                 "id": 3,
-                "image": "./team_member_3.png",
+                "image": "./team_member_3.jpg",
                 "name": "Chef3",
-                "designation": "Fast Food Chef"
+                "designation": "North Indian Chef"
             },
             {
                 "id": 4,
-                "image": "./team_member_4.png",
+                "image": "./team_member_4.jpg",
                 "name": "Chef4",
-                "designation": "Senior Chef"
+                "designation": "Support Chef"
             }
         ],
         "testimonials": [
@@ -122,7 +122,7 @@
         "who_we_are": [
             {
                 "id": 1,
-                "number": "14",
+                "number": "2",
                 "title": "Restaurants"
             },
             {
@@ -132,12 +132,12 @@
             },
             {
                 "id": 3,
-                "number": "06",
+                "number": "29",
                 "title": "Years Of Experience"
             },
             {
                 "id": 4,
-                "number": "200",
+                "number": "80",
                 "title": "Food Dishes"
             }
         ],
