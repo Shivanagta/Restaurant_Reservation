@@ -4,4 +4,5 @@ reservations, view available tables, and manage their bookings via a user-friend
 secure data handling, while the React front end provides a responsive experience.
 • Tech Stack Used: MongoDB, Express, React, Node
 
-![Uploading localhost_5173_.png…]()
+![localhost_5173_](https://github.com/Shivanagta/Restaurant_Reservation/assets/118836394/3fdf1607-e8cf-4b5e-8da2-bb4fb3f0ea66)
+
