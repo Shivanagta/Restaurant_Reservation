@@ -4,3 +4,4 @@ reservations, view available tables, and manage their bookings via a user-friend
 secure data handling, while the React front end provides a responsive experience.
 • Tech Stack Used: MongoDB, Express, React, Node
 
+![Uploading localhost_5173_.png…]()
